@@ -1,0 +1,15 @@
+Los diez mandamientos del hacker
+
+I -. Nunca destroces nada intencionalmente en el
+ordenador que estes crackeando.
+
+II -. Modifica solo los ficheros que hagan falta para
+evitar tu detección y asegurar tu acceso futuro al
+sistema.
+
+III -. Nunca dejes tu direccion real, tu nombre o tu
+teléfono en ningún sistema.
+
+IV -. Ten cuidado a quien le pasas información. A ser
+posible no pases nada a nadie que no conozcas su voz,
+numero de teléfono y nombre real.
